@@ -26,10 +26,6 @@ const Portfolio = function() {
 				weight: 9
 			},
 			{
-				text: "Shopify",
-				weight: 10
-			},
-			{
 				text: "Bootstrap",
 				weight: 11
 			}, {
