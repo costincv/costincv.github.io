@@ -33,7 +33,7 @@ const Portfolio = function() {
 				weight: 10
 			},
 			{
-				text: "Marketeer",
+				text: "Bootstrap",
 				weight: 11
 			}, {
 				text: "CSS3",
