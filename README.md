@@ -1,2 +1,0 @@
-# costincv.github.io
-Portofolio
